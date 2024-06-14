@@ -5,8 +5,8 @@ Documentation        Variáveis globais e configuração de ambiente
 
 *** Variables ***
 
-${email}            email@gmail.com
-${senha}            teste
+${email}            douglas.gragnano@gmail.com
+${senha}            Palmeiras@2026
 ${email_nok}        emailnok@gmail.com.br
 ${inv_email}        teste.com
 ${senha_nok}        senhanok
